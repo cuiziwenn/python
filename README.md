@@ -15,19 +15,4 @@
   
 ## 代码框架
 
-python_code
-├── app1.py             程序的主文件
-│ 
-├── config              配置文件
-│
-├── db                  文件夹，存放数据
-│    └── __init__.py                
-├── files               文件夹，存放文件
-├── src  
-│   ├── __init__.py         
-│   └── secpage         包，业务代码
-│         ├── download.py       
-│         ├── news.py
-│         └── search.py
-└── utils               包，公共功能
-    └── __init__.py
+![image](https://github.com/cuiziwenn/python/assets/69893963/23717297-4efe-41db-87a8-4a49a9416459)
